@@ -1,6 +1,6 @@
 # Prarthanakal — Privacy Policy
 
-_Last updated: 19 September 2026_
+_Last updated: 22 September 2026_
 
 Prarthanakal (പ്രാർത്ഥനകൾ) is a Malayalam Catholic prayer app published by its developer
 ("we", "us"). This policy explains what the app does with your information. The short
@@ -37,22 +37,21 @@ To learn which prayers and features are actually used — and so decide what to 
 or record next — the app can send anonymous usage statistics to **Google Firebase**
 (Google Analytics for Firebase and Firebase Crashlytics), acting as our processor.
 
-**You choose.** The last page of the welcome screens asks whether to share anonymous usage
-statistics, with *Yes, share* and *No thanks* side by side, and you can change your answer at
-any time in Settings → Privacy → *Share anonymous usage statistics*. Turning it off stops all
+**You choose.** The last page of the welcome screens has a checkbox, *Help improve the app
+with anonymous usage statistics*, next to a link that shows exactly what is shared; you can
+change your answer at any time in Settings → Privacy → *Share anonymous usage statistics*. Turning it off stops all
 collection immediately, discards what the app was about to send, resets the app-instance
 identifier, and changes nothing else about the app.
 
-- **Where the law requires opt-in consent**, nothing is selected and nothing is collected until
-  you tap *Yes, share*; skipping the question means no. This applies in the European Union
+- **Where the law requires opt-in consent**, the box starts unticked and nothing is collected
+  until you tick it; skipping the page means no. This applies in the European Union
   and EEA, the United Kingdom, Switzerland, Canada, the United Arab Emirates, Qatar, Bahrain,
   Oman, Brazil, South Korea, China, Turkey, South Africa, Thailand, Malaysia, Indonesia, the
   Philippines, Vietnam, Russia, Israel, Argentina, Egypt, Nigeria and Kenya. The app decides
   this from your phone's region and time-zone settings, and if either points to one of these
   places the opt-in rule is used.
 - **Elsewhere** (including India, the United States, Australia, New Zealand, Singapore and
-  Saudi Arabia) *Yes, share* is pre-selected so the question takes one tap either way; you
-  can decline on that page or later in Settings.
+  Saudi Arabia) the box starts ticked; one tap clears it, on that page or later in Settings.
 
 **What is sent when the switch is on**
 
