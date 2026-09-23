@@ -139,6 +139,38 @@ The app is suitable for all ages and collects no personal information from anyon
 including children. The anonymous usage statistics above contain nothing that identifies a
 person, and a parent can turn them off in Settings → Privacy.
 
+## Delete your data
+
+**Prarthanakal** (by developer gameroina) stores everything on your phone and keeps no
+account, so most deletion happens instantly, on the device, without contacting anyone:
+
+1. **Delete something specific** — open the item (a remembrance day, a list, a favourite) in
+   the app and delete it there. It is removed immediately and is not recoverable.
+2. **Stop and erase the anonymous usage statistics** — go to **Settings → Privacy → Share
+   anonymous usage statistics** and turn the switch off. This immediately stops any further
+   collection, discards anything the app was about to send, and resets the app-instance
+   identifier, so nothing already sent to Firebase can be connected to your device again.
+3. **Delete everything at once** — uninstall the app. Every preference, prayer journal entry,
+   list, favourite, remembrance day and photo stored on the device is removed with it.
+4. **Request deletion by email** — if you want us to confirm deletion of anything already
+   sent to our analytics processor (Google Firebase), or you are exercising a legal right of
+   erasure, write to **gameroinaad@gmail.com** with what you'd like deleted. Since we hold no
+   name or account to look you up by, tell us what you can (approximate date, country, device
+   model) so we can identify the right records. We will act within the time the law in your
+   country allows.
+
+**What is deleted, what is kept, and for how long**
+
+| Data | Deleted | Retention if not deleted sooner |
+|---|---|---|
+| Prayer journal, lists, favourites, remembrance days and photos, preferences, reminder times | Instantly, by step 1 or 3 above | Kept only on your device, indefinitely, until you delete it or uninstall |
+| Anonymous usage statistics (app interactions, settings, device/app-instance identifier) | Stops immediately at step 2; already-sent data ages out on its own | 14 months, then automatically deleted by Firebase |
+| Crash reports (stack trace, app version, device model and OS version) | Stops immediately at step 2 | 90 days, then automatically deleted by Firebase |
+| Purchase records (Supporter subscription, candles) | Held by Google Play / the App Store, not by us — manage or cancel from their Subscriptions page | Governed by Google's / Apple's own retention policy |
+
+Nothing we hold ever includes your name, remembrance names or dates, prayer-list names, the
+text of any prayer, or your photos — see "What is sent" above for the complete list.
+
 ## Your rights
 
 Because we hold nothing that identifies you, most rights are exercised on the phone itself:
